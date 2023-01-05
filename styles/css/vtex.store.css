@@ -1,0 +1,6 @@
+:global(.vtex-store__template) {
+    --principal-color: #2c2e2f;
+    --secondary-color: #fd611a;
+    --slider-color: rgba(253, 97, 26, .25);
+    /* fonts */
+}
